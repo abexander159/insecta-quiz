@@ -1,0 +1,43 @@
+{
+    "bg": "https://cbs4indy.com/wp-content/uploads/sites/22/2020/02/hypatia-h_35d038572f7bab582141373f1d44441e-h_109f8b34d6e43ae3642ad787d049f702.jpg.jpg?w=2560&h=1440&crop=1",
+    "title": "Quiz sobre os melhores animais do mundo, os insetos!",
+    "description": "Teste os seus conhecimentos sobre os insetos e descubra um mundo novo ao nosso redor",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "title": "Como fazer um seletor por id via CSS?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Como fazer um background gradiente com css?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#4caf50",
+        "secondary": "#651fff",
+        "mainBg": "#0E0521",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
