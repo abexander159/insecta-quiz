@@ -1,4 +1,4 @@
-# insecta-quizz
+# insecta-quiz
 
 ## Em desenvolvimento
 
