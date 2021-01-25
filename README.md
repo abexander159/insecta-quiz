@@ -1,6 +1,6 @@
-## insecta-quizz
+# insecta-quizz
 
-# Em desenvolvimento
+## Em desenvolvimento
 
 https://insecta-quiz.abexander159.vercel.app/
 
